@@ -50,8 +50,6 @@ server.listen(port, () => {
   console.log(`
 -------------------------------------------------------------------------
 See YOUR PROJECT in the browser, navigating to --> http://localhost:3003
-
-See the live mock navigating to --> https://w-s5-challenge.herokuapp.com/
 -------------------------------------------------------------------------
 `)
 })
