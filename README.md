@@ -76,7 +76,7 @@ It's crucial to use the readable texts designed for the user interface **verbati
 
 There are other constraints and requirements that must be followed, such as sticking to certain class names or keeping the structure of the HTML a certain way **to avoid breaking the CSS**.
 
-Fortunately, you have [a very detailed mock](https://w-s5-challenge.herokuapp.com/) that you can load in your browser and inspect in detail, which will make your job much easier. And don't worry, **you don't have to write any CSS** because it's already been taken care of!
+And don't worry, **you don't have to write any CSS** because it's already been taken care of!
 
   ---
 
@@ -94,7 +94,6 @@ Fortunately, you have [a very detailed mock](https://w-s5-challenge.herokuapp.co
 Hey! Let's make sure you're up to speed with your **action items so far**.
 
 - [x] The app is installed on your machine, with both `start` and `test` scripts running in terminals.
-- [x] You studied the [mock](https://w-s5-challenge.herokuapp.com/) in the Elements tab of Dev Tools.
 - [x] You saw how some text contents and some class names change as the user clicks around.
 
 Awesome! Our back-end engineer says that the JSON data needed to build the Learner Cards comes from two endpoints:
